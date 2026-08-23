@@ -5,6 +5,7 @@
   "price": "1340",
   "ratio": 0.9481,
   "main": "images/00_新四件套-套餐/主图.png",
+  "main_thumb": "images/00_新四件套-套餐/主图_thumb.jpg",
   "images": [
    "images/00_新四件套-套餐/主图.png",
    "images/00_新四件套-套餐/图2.png"
@@ -43,6 +44,7 @@
   "price": "380",
   "ratio": 0.9481,
   "main": "images/01_(大白)海淘.ELV全面膳食补充剂/主图.png",
+  "main_thumb": "images/01_(大白)海淘.ELV全面膳食补充剂/主图_thumb.jpg",
   "images": [
    "images/01_(大白)海淘.ELV全面膳食补充剂/主图.png",
    "images/01_(大白)海淘.ELV全面膳食补充剂/图2.png"
@@ -81,6 +83,7 @@
   "price": "380",
   "ratio": 0.9481,
   "main": "images/02_(小白)海淘.ELV氨基酸胶原蛋白肽/主图.png",
+  "main_thumb": "images/02_(小白)海淘.ELV氨基酸胶原蛋白肽/主图_thumb.jpg",
   "images": [
    "images/02_(小白)海淘.ELV氨基酸胶原蛋白肽/主图.png",
    "images/02_(小白)海淘.ELV氨基酸胶原蛋白肽/图2.png"
@@ -119,6 +122,7 @@
   "price": "300",
   "ratio": 0.9481,
   "main": "images/03_(小红) 海淘.ELV活性B族电解质矿物质补充剂/主图.png",
+  "main_thumb": "images/03_(小红) 海淘.ELV活性B族电解质矿物质补充剂/主图_thumb.jpg",
   "images": [
    "images/03_(小红) 海淘.ELV活性B族电解质矿物质补充剂/主图.png",
    "images/03_(小红) 海淘.ELV活性B族电解质矿物质补充剂/图2.png"
@@ -157,6 +161,7 @@
   "price": "280",
   "ratio": 0.9481,
   "main": "images/04_(小黄)海淘ELV活性B族ABDK维生素营养补充胶囊/主图.png",
+  "main_thumb": "images/04_(小黄)海淘ELV活性B族ABDK维生素营养补充胶囊/主图_thumb.jpg",
   "images": [
    "images/04_(小黄)海淘ELV活性B族ABDK维生素营养补充胶囊/主图.png",
    "images/04_(小黄)海淘ELV活性B族ABDK维生素营养补充胶囊/图2.png"
@@ -195,6 +200,7 @@
   "price": "99-190",
   "ratio": 0.9481,
   "main": "images/05_基础全营养素定制粉/主图.png",
+  "main_thumb": "images/05_基础全营养素定制粉/主图_thumb.jpg",
   "images": [
    "images/05_基础全营养素定制粉/主图.png"
   ],
@@ -230,6 +236,7 @@
   "price": "65-160",
   "ratio": 0.71,
   "main": "images/06_活性B族全套原料粉 · 代灌胶囊/主图.png",
+  "main_thumb": "images/06_活性B族全套原料粉 · 代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/06_活性B族全套原料粉 · 代灌胶囊/主图.png"
   ],
@@ -264,6 +271,7 @@
   "price": "188",
   "ratio": 0.71,
   "main": "images/07_复合岩藻多糖定制代灌胶囊/主图.png",
+  "main_thumb": "images/07_复合岩藻多糖定制代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/07_复合岩藻多糖定制代灌胶囊/主图.png"
   ],
@@ -290,6 +298,7 @@
   "price": "88",
   "ratio": 0.71,
   "main": "images/08_三丁酸甘油酯代灌胶囊/主图.png",
+  "main_thumb": "images/08_三丁酸甘油酯代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/08_三丁酸甘油酯代灌胶囊/主图.png"
   ],
@@ -316,6 +325,7 @@
   "price": "50-70",
   "ratio": 0.71,
   "main": "images/09_纯肌肽锌 · 复合肌肽锌 · 吡啶甲酸锌/主图.png",
+  "main_thumb": "images/09_纯肌肽锌 · 复合肌肽锌 · 吡啶甲酸锌/主图_thumb.jpg",
   "images": [
    "images/09_纯肌肽锌 · 复合肌肽锌 · 吡啶甲酸锌/主图.png"
   ],
@@ -350,6 +360,7 @@
   "price": "60",
   "ratio": 0.71,
   "main": "images/10_复合定制vc泡腾电解质营养素/主图.png",
+  "main_thumb": "images/10_复合定制vc泡腾电解质营养素/主图_thumb.jpg",
   "images": [
    "images/10_复合定制vc泡腾电解质营养素/主图.png"
   ],
@@ -376,6 +387,7 @@
   "price": "98",
   "ratio": 0.9481,
   "main": "images/11_电解质矿物质定制原料/主图.png",
+  "main_thumb": "images/11_电解质矿物质定制原料/主图_thumb.jpg",
   "images": [
    "images/11_电解质矿物质定制原料/主图.png",
    "images/11_电解质矿物质定制原料/图2.png"
@@ -403,6 +415,7 @@
   "price": "175-200",
   "ratio": 0.71,
   "main": "images/12_复合定制胶原蛋白肽/主图.png",
+  "main_thumb": "images/12_复合定制胶原蛋白肽/主图_thumb.jpg",
   "images": [
    "images/12_复合定制胶原蛋白肽/主图.png"
   ],
@@ -429,6 +442,7 @@
   "price": "299-320",
   "ratio": 0.71,
   "main": "images/13_定制抗衰组合营养素/主图.png",
+  "main_thumb": "images/13_定制抗衰组合营养素/主图_thumb.jpg",
   "images": [
    "images/13_定制抗衰组合营养素/主图.png"
   ],
@@ -459,6 +473,7 @@
   "price": "78-100",
   "ratio": 0.9481,
   "main": "images/14_复合氮泵氨基酸原料粉_代灌胶囊/主图.png",
+  "main_thumb": "images/14_复合氮泵氨基酸原料粉_代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/14_复合氮泵氨基酸原料粉_代灌胶囊/主图.png",
    "images/14_复合氮泵氨基酸原料粉_代灌胶囊/图2.png"
@@ -486,6 +501,7 @@
   "price": "320",
   "ratio": 0.71,
   "main": "images/15_九合一油/主图.png",
+  "main_thumb": "images/15_九合一油/主图_thumb.jpg",
   "images": [
    "images/15_九合一油/主图.png"
   ],
@@ -512,6 +528,7 @@
   "price": "168-205",
   "ratio": 0.71,
   "main": "images/16_三合一油四合一油/主图.png",
+  "main_thumb": "images/16_三合一油四合一油/主图_thumb.jpg",
   "images": [
    "images/16_三合一油四合一油/主图.png"
   ],
@@ -538,6 +555,7 @@
   "price": "40-100",
   "ratio": 0.71,
   "main": "images/17_甜梦静息定制强化营养素/主图.png",
+  "main_thumb": "images/17_甜梦静息定制强化营养素/主图_thumb.jpg",
   "images": [
    "images/17_甜梦静息定制强化营养素/主图.png"
   ],
@@ -568,6 +586,7 @@
   "price": "10-80",
   "ratio": 0.9481,
   "main": "images/18_柠檬酸钙粉剂100g_代灌胶囊/主图.png",
+  "main_thumb": "images/18_柠檬酸钙粉剂100g_代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/18_柠檬酸钙粉剂100g_代灌胶囊/主图.png",
    "images/18_柠檬酸钙粉剂100g_代灌胶囊/图2.png"
@@ -595,6 +614,7 @@
   "price": "100-120",
   "ratio": 0.9481,
   "main": "images/19_EAA纯粉必需氨基酸/主图.png",
+  "main_thumb": "images/19_EAA纯粉必需氨基酸/主图_thumb.jpg",
   "images": [
    "images/19_EAA纯粉必需氨基酸/主图.png"
   ],
@@ -621,6 +641,7 @@
   "price": "45-200",
   "ratio": 0.9481,
   "main": "images/20_维生素D3维生素K2、ADK/主图.png",
+  "main_thumb": "images/20_维生素D3维生素K2、ADK/主图_thumb.jpg",
   "images": [
    "images/20_维生素D3维生素K2、ADK/主图.png"
   ],
@@ -659,6 +680,7 @@
   "price": "100-220",
   "ratio": 0.9481,
   "main": "images/21_定制微量元素营养素粉与胶囊/主图.png",
+  "main_thumb": "images/21_定制微量元素营养素粉与胶囊/主图_thumb.jpg",
   "images": [
    "images/21_定制微量元素营养素粉与胶囊/主图.png"
   ],
@@ -685,6 +707,7 @@
   "price": "60-108",
   "ratio": 0.9481,
   "main": "images/22_复合葵花卵磷脂500g/主图.png",
+  "main_thumb": "images/22_复合葵花卵磷脂500g/主图_thumb.jpg",
   "images": [
    "images/22_复合葵花卵磷脂500g/主图.png",
    "images/22_复合葵花卵磷脂500g/图2.png"
@@ -712,6 +735,7 @@
   "price": "200",
   "ratio": 0.9481,
   "main": "images/23_透明质酸钠/主图.png",
+  "main_thumb": "images/23_透明质酸钠/主图_thumb.jpg",
   "images": [
    "images/23_透明质酸钠/主图.png",
    "images/23_透明质酸钠/图2.png"
@@ -739,6 +763,7 @@
   "price": "38",
   "ratio": 0.9481,
   "main": "images/24_水果香精调味包/主图.png",
+  "main_thumb": "images/24_水果香精调味包/主图_thumb.jpg",
   "images": [
    "images/24_水果香精调味包/主图.png",
    "images/24_水果香精调味包/图2.png"
@@ -766,6 +791,7 @@
   "price": "40-65",
   "ratio": 0.9481,
   "main": "images/25_增强复合阿洛酮糖/主图.png",
+  "main_thumb": "images/25_增强复合阿洛酮糖/主图_thumb.jpg",
   "images": [
    "images/25_增强复合阿洛酮糖/主图.png",
    "images/25_增强复合阿洛酮糖/图2.png",
@@ -794,6 +820,7 @@
   "price": "280-350",
   "ratio": 0.9481,
   "main": "images/26_维生素K2_mk4_mk7/主图.png",
+  "main_thumb": "images/26_维生素K2_mk4_mk7/主图_thumb.jpg",
   "images": [
    "images/26_维生素K2_mk4_mk7/主图.png",
    "images/26_维生素K2_mk4_mk7/图2.png",
@@ -822,6 +849,7 @@
   "price": "80",
   "ratio": 0.9481,
   "main": "images/27_维生素C钠Vc钠抗坏血酸钠/主图.png",
+  "main_thumb": "images/27_维生素C钠Vc钠抗坏血酸钠/主图_thumb.jpg",
   "images": [
    "images/27_维生素C钠Vc钠抗坏血酸钠/主图.png",
    "images/27_维生素C钠Vc钠抗坏血酸钠/图2.png",
@@ -850,6 +878,7 @@
   "price": "35-72",
   "ratio": 0.9481,
   "main": "images/28_维生素C_VC代灌胶囊_Vc原料粉/主图.png",
+  "main_thumb": "images/28_维生素C_VC代灌胶囊_Vc原料粉/主图_thumb.jpg",
   "images": [
    "images/28_维生素C_VC代灌胶囊_Vc原料粉/主图.png",
    "images/28_维生素C_VC代灌胶囊_Vc原料粉/图2.png"
@@ -877,6 +906,7 @@
   "price": "60",
   "ratio": 0.9481,
   "main": "images/29_肌酸/主图.png",
+  "main_thumb": "images/29_肌酸/主图_thumb.jpg",
   "images": [
    "images/29_肌酸/主图.png",
    "images/29_肌酸/图2.png",
@@ -905,6 +935,7 @@
   "price": "145",
   "ratio": 0.9481,
   "main": "images/30_肌肽代灌胶囊/主图.png",
+  "main_thumb": "images/30_肌肽代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/30_肌肽代灌胶囊/主图.png",
    "images/30_肌肽代灌胶囊/图2.png"
@@ -932,6 +963,7 @@
   "price": "80",
   "ratio": 0.9481,
   "main": "images/31_五重镁代灌胶囊/主图.png",
+  "main_thumb": "images/31_五重镁代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/31_五重镁代灌胶囊/主图.png",
    "images/31_五重镁代灌胶囊/图2.png"
@@ -959,6 +991,7 @@
   "price": "80",
   "ratio": 0.9481,
   "main": "images/32_高纯度无水甜菜碱/主图.png",
+  "main_thumb": "images/32_高纯度无水甜菜碱/主图_thumb.jpg",
   "images": [
    "images/32_高纯度无水甜菜碱/主图.png",
    "images/32_高纯度无水甜菜碱/图2.png",
@@ -987,6 +1020,7 @@
   "price": "35-40",
   "ratio": 0.9481,
   "main": "images/33_维生素B3烟酸原料粉_代灌胶囊/主图.png",
+  "main_thumb": "images/33_维生素B3烟酸原料粉_代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/33_维生素B3烟酸原料粉_代灌胶囊/主图.png",
    "images/33_维生素B3烟酸原料粉_代灌胶囊/图2.png"
@@ -1014,6 +1048,7 @@
   "price": "15-90",
   "ratio": 0.9481,
   "main": "images/34_维生素A_VA视黄醇原料_代灌胶囊/主图.png",
+  "main_thumb": "images/34_维生素A_VA视黄醇原料_代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/34_维生素A_VA视黄醇原料_代灌胶囊/主图.png",
    "images/34_维生素A_VA视黄醇原料_代灌胶囊/图2.png"
@@ -1041,6 +1076,7 @@
   "price": "120",
   "ratio": 0.9481,
   "main": "images/35_苯磷硫胺_B1衍生物_脂溶性B1实验试剂_代灌胶囊/主图.png",
+  "main_thumb": "images/35_苯磷硫胺_B1衍生物_脂溶性B1实验试剂_代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/35_苯磷硫胺_B1衍生物_脂溶性B1实验试剂_代灌胶囊/主图.png",
    "images/35_苯磷硫胺_B1衍生物_脂溶性B1实验试剂_代灌胶囊/图2.png"
@@ -1068,6 +1104,7 @@
   "price": "75",
   "ratio": 0.9481,
   "main": "images/36_复合活性b2代灌胶囊/主图.png",
+  "main_thumb": "images/36_复合活性b2代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/36_复合活性b2代灌胶囊/主图.png",
    "images/36_复合活性b2代灌胶囊/图2.png"
@@ -1095,6 +1132,7 @@
   "price": "75",
   "ratio": 0.9481,
   "main": "images/37_谷氨酰胺原料粉/主图.png",
+  "main_thumb": "images/37_谷氨酰胺原料粉/主图_thumb.jpg",
   "images": [
    "images/37_谷氨酰胺原料粉/主图.png",
    "images/37_谷氨酰胺原料粉/图2.png"
@@ -1122,6 +1160,7 @@
   "price": "45-80",
   "ratio": 0.9481,
   "main": "images/38_盐酸甜菜碱原料_代灌胶囊/主图.png",
+  "main_thumb": "images/38_盐酸甜菜碱原料_代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/38_盐酸甜菜碱原料_代灌胶囊/主图.png",
    "images/38_盐酸甜菜碱原料_代灌胶囊/图2.png"
@@ -1149,6 +1188,7 @@
   "price": "110-290",
   "ratio": 0.9481,
   "main": "images/39_牛黄熊去氧胆酸_熊去氧胆酸/主图.png",
+  "main_thumb": "images/39_牛黄熊去氧胆酸_熊去氧胆酸/主图_thumb.jpg",
   "images": [
    "images/39_牛黄熊去氧胆酸_熊去氧胆酸/主图.png",
    "images/39_牛黄熊去氧胆酸_熊去氧胆酸/图2.png",
@@ -1177,6 +1217,7 @@
   "price": "80-155",
   "ratio": 0.9481,
   "main": "images/40_N-乙酰半胱氨酸(NAC)/主图.png",
+  "main_thumb": "images/40_N-乙酰半胱氨酸(NAC)/主图_thumb.jpg",
   "images": [
    "images/40_N-乙酰半胱氨酸(NAC)/主图.png",
    "images/40_N-乙酰半胱氨酸(NAC)/图2.png",
@@ -1205,6 +1246,7 @@
   "price": "288-350",
   "ratio": 0.9481,
   "main": "images/41_定制S-乙酰-L-谷胱甘肽原料_代灌胶囊/主图.png",
+  "main_thumb": "images/41_定制S-乙酰-L-谷胱甘肽原料_代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/41_定制S-乙酰-L-谷胱甘肽原料_代灌胶囊/主图.png",
    "images/41_定制S-乙酰-L-谷胱甘肽原料_代灌胶囊/图2.png"
@@ -1232,6 +1274,7 @@
   "price": "128",
   "ratio": 0.9481,
   "main": "images/42_辅酶Q10原料粉_代罐胶囊/主图.png",
+  "main_thumb": "images/42_辅酶Q10原料粉_代罐胶囊/主图_thumb.jpg",
   "images": [
    "images/42_辅酶Q10原料粉_代罐胶囊/主图.png",
    "images/42_辅酶Q10原料粉_代罐胶囊/图2.png"
@@ -1259,6 +1302,7 @@
   "price": "220",
   "ratio": 0.9481,
   "main": "images/43_R右旋硫辛酸钠盐99%代灌胶囊/主图.png",
+  "main_thumb": "images/43_R右旋硫辛酸钠盐99%代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/43_R右旋硫辛酸钠盐99%代灌胶囊/主图.png",
    "images/43_R右旋硫辛酸钠盐99%代灌胶囊/图2.png"
@@ -1286,6 +1330,7 @@
   "price": "90",
   "ratio": 0.9481,
   "main": "images/44_MCT油 (C8C10油)/主图.png",
+  "main_thumb": "images/44_MCT油 (C8C10油)/主图_thumb.jpg",
   "images": [
    "images/44_MCT油 (C8C10油)/主图.png",
    "images/44_MCT油 (C8C10油)/图2.png"
@@ -1313,6 +1358,7 @@
   "price": "60",
   "ratio": 0.9481,
   "main": "images/45_AKG钙代灌胶囊/主图.png",
+  "main_thumb": "images/45_AKG钙代灌胶囊/主图_thumb.jpg",
   "images": [
    "images/45_AKG钙代灌胶囊/主图.png",
    "images/45_AKG钙代灌胶囊/图2.png"
@@ -1340,6 +1386,7 @@
   "price": "300",
   "ratio": 0.9481,
   "main": "images/46_维生素营养强化剂原料套餐（鲍林粉）/主图.png",
+  "main_thumb": "images/46_维生素营养强化剂原料套餐（鲍林粉）/主图_thumb.jpg",
   "images": [
    "images/46_维生素营养强化剂原料套餐（鲍林粉）/主图.png",
    "images/46_维生素营养强化剂原料套餐（鲍林粉）/图2.png"
@@ -1367,6 +1414,7 @@
   "price": "200",
   "ratio": 0.9481,
   "main": "images/47_白番茄浓缩粉(进口英国)50g袋/主图.png",
+  "main_thumb": "images/47_白番茄浓缩粉(进口英国)50g袋/主图_thumb.jpg",
   "images": [
    "images/47_白番茄浓缩粉(进口英国)50g袋/主图.png",
    "images/47_白番茄浓缩粉(进口英国)50g袋/图2.png"
@@ -1394,6 +1442,7 @@
   "price": "100",
   "ratio": 0.9481,
   "main": "images/48_生物素维生素B7含量20%/主图.png",
+  "main_thumb": "images/48_生物素维生素B7含量20%/主图_thumb.jpg",
   "images": [
    "images/48_生物素维生素B7含量20%/主图.png",
    "images/48_生物素维生素B7含量20%/图2.png"
@@ -1420,6 +1469,7 @@
   "price": "30",
   "ratio": 0.9481,
   "main": "images/49_柠檬酸钾纯原料/主图.png",
+  "main_thumb": "images/49_柠檬酸钾纯原料/主图_thumb.jpg",
   "images": [
    "images/49_柠檬酸钾纯原料/主图.png",
    "images/49_柠檬酸钾纯原料/图2.png"
@@ -1446,6 +1496,7 @@
   "price": "133",
   "ratio": 0.9481,
   "main": "images/50_15倍浓缩椰子汁/主图.png",
+  "main_thumb": "images/50_15倍浓缩椰子汁/主图_thumb.jpg",
   "images": [
    "images/50_15倍浓缩椰子汁/主图.png"
   ],
@@ -1471,6 +1522,7 @@
   "price": "80",
   "ratio": 0.9481,
   "main": "images/51_肌醇99%500g袋/主图.png",
+  "main_thumb": "images/51_肌醇99%500g袋/主图_thumb.jpg",
   "images": [
    "images/51_肌醇99%500g袋/主图.png",
    "images/51_肌醇99%500g袋/图2.png"
@@ -1497,6 +1549,7 @@
   "price": "55",
   "ratio": 0.9481,
   "main": "images/52_牛磺酸/主图.png",
+  "main_thumb": "images/52_牛磺酸/主图_thumb.jpg",
   "images": [
    "images/52_牛磺酸/主图.png",
    "images/52_牛磺酸/图2.png"
@@ -1523,6 +1576,7 @@
   "price": "60",
   "ratio": 0.9481,
   "main": "images/53_左旋肉碱原料纯粉/主图.png",
+  "main_thumb": "images/53_左旋肉碱原料纯粉/主图_thumb.jpg",
   "images": [
    "images/53_左旋肉碱原料纯粉/主图.png",
    "images/53_左旋肉碱原料纯粉/图2.png"
@@ -1549,6 +1603,7 @@
   "price": "35-40",
   "ratio": 0.9481,
   "main": "images/54_甘氨酸/主图.png",
+  "main_thumb": "images/54_甘氨酸/主图_thumb.jpg",
   "images": [
    "images/54_甘氨酸/主图.png",
    "images/54_甘氨酸/图2.png"
@@ -1575,6 +1630,7 @@
   "price": "50-60",
   "ratio": 0.9481,
   "main": "images/55_甘氨酸镁/主图.png",
+  "main_thumb": "images/55_甘氨酸镁/主图_thumb.jpg",
   "images": [
    "images/55_甘氨酸镁/主图.png",
    "images/55_甘氨酸镁/图2.png",
@@ -1602,6 +1658,7 @@
   "price": "150",
   "ratio": 0.9481,
   "main": "images/56_苏糖酸镁/主图.png",
+  "main_thumb": "images/56_苏糖酸镁/主图_thumb.jpg",
   "images": [
    "images/56_苏糖酸镁/主图.png",
    "images/56_苏糖酸镁/图2.png",
@@ -1629,6 +1686,7 @@
   "price": "60",
   "ratio": 0.9481,
   "main": "images/57_α-酮戊二酸_AKG/主图.png",
+  "main_thumb": "images/57_α-酮戊二酸_AKG/主图_thumb.jpg",
   "images": [
    "images/57_α-酮戊二酸_AKG/主图.png",
    "images/57_α-酮戊二酸_AKG/图2.png"
@@ -1655,6 +1713,7 @@
   "price": "150",
   "ratio": 0.9481,
   "main": "images/58_麦角硫因99.7%/主图.png",
+  "main_thumb": "images/58_麦角硫因99.7%/主图_thumb.jpg",
   "images": [
    "images/58_麦角硫因99.7%/主图.png",
    "images/58_麦角硫因99.7%/图2.png"
@@ -1681,6 +1740,7 @@
   "price": "100",
   "ratio": 0.9481,
   "main": "images/59_MCT粉C8-95%/主图.png",
+  "main_thumb": "images/59_MCT粉C8-95%/主图_thumb.jpg",
   "images": [
    "images/59_MCT粉C8-95%/主图.png",
    "images/59_MCT粉C8-95%/图2.png"
@@ -1707,6 +1767,7 @@
   "price": "44",
   "ratio": 0.9481,
   "main": "images/60_茶氨酸100g袋(散装)/主图.png",
+  "main_thumb": "images/60_茶氨酸100g袋(散装)/主图_thumb.jpg",
   "images": [
    "images/60_茶氨酸100g袋(散装)/主图.png",
    "images/60_茶氨酸100g袋(散装)/图2.png"
@@ -1733,6 +1794,7 @@
   "price": "95",
   "ratio": 0.9481,
   "main": "images/61_硬脂酸98%纯度/主图.png",
+  "main_thumb": "images/61_硬脂酸98%纯度/主图_thumb.jpg",
   "images": [
    "images/61_硬脂酸98%纯度/主图.png",
    "images/61_硬脂酸98%纯度/图2.png"
@@ -1759,6 +1821,7 @@
   "price": "45",
   "ratio": 0.9481,
   "main": "images/62_三丁酸甘油酯200克瓶/主图.png",
+  "main_thumb": "images/62_三丁酸甘油酯200克瓶/主图_thumb.jpg",
   "images": [
    "images/62_三丁酸甘油酯200克瓶/主图.png",
    "images/62_三丁酸甘油酯200克瓶/图2.png"
@@ -1785,6 +1848,7 @@
   "price": "75",
   "ratio": 0.9481,
   "main": "images/63_乙酰左旋肉碱盐酸盐100g/主图.png",
+  "main_thumb": "images/63_乙酰左旋肉碱盐酸盐100g/主图_thumb.jpg",
   "images": [
    "images/63_乙酰左旋肉碱盐酸盐100g/主图.png",
    "images/63_乙酰左旋肉碱盐酸盐100g/图2.png"
@@ -1811,6 +1875,7 @@
   "price": "63",
   "ratio": 0.9481,
   "main": "images/64_水溶锌代灌胶囊_漱口/主图.png",
+  "main_thumb": "images/64_水溶锌代灌胶囊_漱口/主图_thumb.jpg",
   "images": [
    "images/64_水溶锌代灌胶囊_漱口/主图.png",
    "images/64_水溶锌代灌胶囊_漱口/图2.png"
@@ -1837,6 +1902,7 @@
   "price": "449",
   "ratio": 0.9481,
   "main": "images/65_SiBio硅基动态血酮检测系KS3/主图.png",
+  "main_thumb": "images/65_SiBio硅基动态血酮检测系KS3/主图_thumb.jpg",
   "images": [
    "images/65_SiBio硅基动态血酮检测系KS3/主图.png"
   ],
@@ -1862,6 +1928,7 @@
   "price": "300",
   "ratio": 0.9481,
   "main": "images/66_NAD+检测/主图.png",
+  "main_thumb": "images/66_NAD+检测/主图_thumb.jpg",
   "images": [
    "images/66_NAD+检测/主图.png"
   ],
@@ -1887,6 +1954,7 @@
   "price": "158-5580",
   "ratio": 0.9481,
   "main": "images/67_红光4件套/主图.png",
+  "main_thumb": "images/67_红光4件套/主图_thumb.jpg",
   "images": [
    "images/67_红光4件套/主图.png"
   ],
@@ -1907,6 +1975,7 @@
   "price": "5-3200",
   "ratio": 0.9481,
   "main": "images/68_接地床单_功能医学检测盒/主图.png",
+  "main_thumb": "images/68_接地床单_功能医学检测盒/主图_thumb.jpg",
   "images": [
    "images/68_接地床单_功能医学检测盒/主图.png"
   ],
@@ -1927,6 +1996,7 @@
   "price": "550",
   "ratio": 0.9481,
   "main": "images/69_NAD+辅酶检测/主图.png",
+  "main_thumb": "images/69_NAD+辅酶检测/主图_thumb.jpg",
   "images": [
    "images/69_NAD+辅酶检测/主图.png"
   ],
@@ -1947,6 +2017,7 @@
   "price": "26-31",
   "ratio": 0.9481,
   "main": "images/70_避光分层防潮密封罐/主图.png",
+  "main_thumb": "images/70_避光分层防潮密封罐/主图_thumb.jpg",
   "images": [
    "images/70_避光分层防潮密封罐/主图.png"
   ],
