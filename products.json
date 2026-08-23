@@ -36,7 +36,8 @@
   "direct": null,
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 1,
@@ -75,7 +76,8 @@
   "direct": null,
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 2,
@@ -114,7 +116,8 @@
   "direct": null,
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 3,
@@ -153,7 +156,8 @@
   "direct": null,
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 4,
@@ -192,7 +196,8 @@
   "direct": null,
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 5,
@@ -228,7 +233,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/156",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 6,
@@ -263,7 +269,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/19",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 7,
@@ -290,7 +297,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/157",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 8,
@@ -317,7 +325,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/9",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 9,
@@ -352,7 +361,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/20",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 10,
@@ -379,7 +389,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/31",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 11,
@@ -409,7 +420,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/28",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 12,
@@ -436,7 +448,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/62",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 13,
@@ -467,7 +480,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/72",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 14,
@@ -497,7 +511,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/33",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 15,
@@ -524,7 +539,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/41",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 16,
@@ -551,7 +567,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/68",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 17,
@@ -582,7 +599,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/34",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 18,
@@ -612,7 +630,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/54",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 19,
@@ -639,7 +658,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/39",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 20,
@@ -678,7 +698,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/17",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 21,
@@ -705,7 +726,8 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/57",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 22,
@@ -735,7 +757,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/32",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 23,
@@ -765,7 +788,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/67",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 24,
@@ -795,7 +819,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/66",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 25,
@@ -826,7 +851,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/38",
   "science_qr": [
    2
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 26,
@@ -857,7 +883,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/37",
   "science_qr": [
    2
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 27,
@@ -888,7 +915,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/163",
   "science_qr": [
    2
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 28,
@@ -918,7 +946,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/29",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 29,
@@ -949,7 +978,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/23",
   "science_qr": [
    2
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 30,
@@ -979,7 +1009,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/159",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 31,
@@ -1009,7 +1040,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/65",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 32,
@@ -1040,7 +1072,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/16",
   "science_qr": [
    2
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 33,
@@ -1070,7 +1103,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/10",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 34,
@@ -1100,7 +1134,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/63",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 35,
@@ -1130,7 +1165,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/47",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 36,
@@ -1160,7 +1196,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/74",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 37,
@@ -1190,7 +1227,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/35",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 38,
@@ -1220,7 +1258,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/55",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 39,
@@ -1251,7 +1290,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/14",
   "science_qr": [
    2
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 40,
@@ -1282,7 +1322,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/56",
   "science_qr": [
    2
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 41,
@@ -1312,7 +1353,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/11",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 42,
@@ -1342,7 +1384,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/59",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 43,
@@ -1372,7 +1415,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/61",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 44,
@@ -1402,7 +1446,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/44",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 45,
@@ -1432,7 +1477,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/160",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 46,
@@ -1462,7 +1508,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/69",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 47,
@@ -1492,7 +1539,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/46",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 48,
@@ -1516,7 +1564,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/43",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 49,
@@ -1540,7 +1589,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/49",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 50,
@@ -1561,7 +1611,8 @@
   "articles": [],
   "buy": [],
   "direct": "https://huangsuning.yuanchu.cloud/goods/45",
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 51,
@@ -1585,7 +1636,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/48",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 52,
@@ -1609,7 +1661,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/40",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 53,
@@ -1633,7 +1686,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/51",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 54,
@@ -1657,7 +1711,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/53",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 55,
@@ -1682,7 +1737,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/15",
   "science_qr": [
    2
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 56,
@@ -1707,7 +1763,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/36",
   "science_qr": [
    2
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 57,
@@ -1731,7 +1788,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/160",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 58,
@@ -1755,7 +1813,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/50",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 59,
@@ -1779,7 +1838,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/60",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 60,
@@ -1803,7 +1863,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/52",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 61,
@@ -1827,7 +1888,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/42",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 62,
@@ -1851,7 +1913,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/30",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 63,
@@ -1875,7 +1938,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/21",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 64,
@@ -1899,7 +1963,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/64",
   "science_qr": [
    1
-  ]
+  ],
+  "contact": null
  },
  {
   "id": 65,
@@ -1920,7 +1985,8 @@
   "articles": [],
   "buy": [],
   "direct": null,
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 66,
@@ -1941,7 +2007,8 @@
   "articles": [],
   "buy": [],
   "direct": null,
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 67,
@@ -1962,7 +2029,8 @@
   "articles": [],
   "buy": [],
   "direct": null,
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 68,
@@ -1983,7 +2051,8 @@
   "articles": [],
   "buy": [],
   "direct": null,
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 69,
@@ -1999,7 +2068,8 @@
   "articles": [],
   "buy": [],
   "direct": null,
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 70,
@@ -2015,7 +2085,8 @@
   "articles": [],
   "buy": [],
   "direct": null,
-  "science_qr": []
+  "science_qr": [],
+  "contact": null
  },
  {
   "id": 100,
@@ -2036,6 +2107,7 @@
   ],
   "buy": [],
   "direct": null,
-  "science_qr": []
+  "science_qr": [],
+  "contact": "陳平安"
  }
 ]
