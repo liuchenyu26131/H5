@@ -184,11 +184,18 @@
   "ratio": 0.9481,
   "main": "images/05_基础全营养素定制粉/主图.png",
   "images": [
-   "images/05_基础全营养素定制粉/主图.png",
-   "images/05_基础全营养素定制粉/图2.png",
-   "images/05_基础全营养素定制粉/图3.png"
+   "images/05_基础全营养素定制粉/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "A版使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#681-detail"
+   },
+   {
+    "text": "B版使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#682-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -210,12 +217,22 @@
   "ratio": 0.71,
   "main": "images/06_活性B族全套原料粉 · 代灌胶囊/主图.png",
   "images": [
-   "images/06_活性B族全套原料粉 · 代灌胶囊/主图.png",
-   "images/06_活性B族全套原料粉 · 代灌胶囊/图2.png",
-   "images/06_活性B族全套原料粉 · 代灌胶囊/图3.png",
-   "images/06_活性B族全套原料粉 · 代灌胶囊/图4.png"
+   "images/06_活性B族全套原料粉 · 代灌胶囊/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "A版使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#711-detail"
+   },
+   {
+    "text": "B版使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#712-detail"
+   },
+   {
+    "text": "胶囊使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#713-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -232,10 +249,14 @@
   "ratio": 0.71,
   "main": "images/07_复合岩藻多糖定制代灌胶囊/主图.png",
   "images": [
-   "images/07_复合岩藻多糖定制代灌胶囊/主图.png",
-   "images/07_复合岩藻多糖定制代灌胶囊/图2.png"
+   "images/07_复合岩藻多糖定制代灌胶囊/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "复合岩藻多糖使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#77-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -252,10 +273,14 @@
   "ratio": 0.71,
   "main": "images/08_三丁酸甘油酯代灌胶囊/主图.png",
   "images": [
-   "images/08_三丁酸甘油酯代灌胶囊/主图.png",
-   "images/08_三丁酸甘油酯代灌胶囊/图2.png"
+   "images/08_三丁酸甘油酯代灌胶囊/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "三丁酸甘油酯使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#61-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -272,12 +297,22 @@
   "ratio": 0.71,
   "main": "images/09_纯肌肽锌 · 复合肌肽锌 · 吡啶甲酸锌/主图.png",
   "images": [
-   "images/09_纯肌肽锌 · 复合肌肽锌 · 吡啶甲酸锌/主图.png",
-   "images/09_纯肌肽锌 · 复合肌肽锌 · 吡啶甲酸锌/图2.png",
-   "images/09_纯肌肽锌 · 复合肌肽锌 · 吡啶甲酸锌/图3.png",
-   "images/09_纯肌肽锌 · 复合肌肽锌 · 吡啶甲酸锌/图4.png"
+   "images/09_纯肌肽锌 · 复合肌肽锌 · 吡啶甲酸锌/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "纯肌肽锌使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#731-detail"
+   },
+   {
+    "text": "复合肌肽锌使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#732-detail"
+   },
+   {
+    "text": "吡啶甲酸锌使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#733-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -294,10 +329,14 @@
   "ratio": 0.71,
   "main": "images/10_复合定制vc泡腾电解质营养素/主图.png",
   "images": [
-   "images/10_复合定制vc泡腾电解质营养素/主图.png",
-   "images/10_复合定制vc泡腾电解质营养素/图2.png"
+   "images/10_复合定制vc泡腾电解质营养素/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "vc泡腾使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#09-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -339,10 +378,14 @@
   "ratio": 0.71,
   "main": "images/12_复合定制胶原蛋白肽/主图.png",
   "images": [
-   "images/12_复合定制胶原蛋白肽/主图.png",
-   "images/12_复合定制胶原蛋白肽/图2.png"
+   "images/12_复合定制胶原蛋白肽/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "复合定制胶原蛋白肽使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#10-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -359,11 +402,18 @@
   "ratio": 0.71,
   "main": "images/13_定制抗衰组合营养素/主图.png",
   "images": [
-   "images/13_定制抗衰组合营养素/主图.png",
-   "images/13_定制抗衰组合营养素/图2.png",
-   "images/13_定制抗衰组合营养素/图3.png"
+   "images/13_定制抗衰组合营养素/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "抗衰粉使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#111-detail"
+   },
+   {
+    "text": "抗衰胶囊使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#112-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -405,10 +455,14 @@
   "ratio": 0.71,
   "main": "images/15_九合一油/主图.png",
   "images": [
-   "images/15_九合一油/主图.png",
-   "images/15_九合一油/图2.png"
+   "images/15_九合一油/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "九合一油使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#13-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -425,10 +479,14 @@
   "ratio": 0.71,
   "main": "images/16_三合一油四合一油/主图.png",
   "images": [
-   "images/16_三合一油四合一油/主图.png",
-   "images/16_三合一油四合一油/图2.png"
+   "images/16_三合一油四合一油/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "三合一油四合一油使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#14-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -445,11 +503,18 @@
   "ratio": 0.71,
   "main": "images/17_甜梦静息定制强化营养素/主图.png",
   "images": [
-   "images/17_甜梦静息定制强化营养素/主图.png",
-   "images/17_甜梦静息定制强化营养素/图2.png",
-   "images/17_甜梦静息定制强化营养素/图3.png"
+   "images/17_甜梦静息定制强化营养素/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "A版使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#151-detail"
+   },
+   {
+    "text": "B版使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#152-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -491,10 +556,14 @@
   "ratio": 0.9481,
   "main": "images/19_EAA纯粉必需氨基酸/主图.png",
   "images": [
-   "images/19_EAA纯粉必需氨基酸/主图.png",
-   "images/19_EAA纯粉必需氨基酸/图2.png"
+   "images/19_EAA纯粉必需氨基酸/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "EAA必需氨基酸使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#16-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -511,13 +580,26 @@
   "ratio": 0.9481,
   "main": "images/20_维生素D3维生素K2、ADK/主图.png",
   "images": [
-   "images/20_维生素D3维生素K2、ADK/主图.png",
-   "images/20_维生素D3维生素K2、ADK/图2.png",
-   "images/20_维生素D3维生素K2、ADK/图3.png",
-   "images/20_维生素D3维生素K2、ADK/图4.png",
-   "images/20_维生素D3维生素K2、ADK/图5.png"
+   "images/20_维生素D3维生素K2、ADK/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "DK粉使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#181-detail"
+   },
+   {
+    "text": "DK5千使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#182-detail"
+   },
+   {
+    "text": "DK1.6万使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#183-detail"
+   },
+   {
+    "text": "ADK胶囊使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#184-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
@@ -534,10 +616,14 @@
   "ratio": 0.9481,
   "main": "images/21_定制微量元素营养素粉与胶囊/主图.png",
   "images": [
-   "images/21_定制微量元素营养素粉与胶囊/主图.png",
-   "images/21_定制微量元素营养素粉与胶囊/图2.png"
+   "images/21_定制微量元素营养素粉与胶囊/主图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "定制微量元素使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#53-detail"
+   }
+  ],
   "articles": [],
   "buy": [
    {
