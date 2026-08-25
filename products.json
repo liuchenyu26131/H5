@@ -1051,13 +1051,12 @@
   "main": "images/31_五重镁代灌胶囊/主图.png",
   "main_thumb": "images/31_五重镁代灌胶囊/主图_thumb.jpg",
   "images": [
-   "images/31_五重镁代灌胶囊/主图.png",
-   "images/31_五重镁代灌胶囊/图2.png"
+   "images/31_五重镁代灌胶囊/主图.png"
   ],
   "use": [
    {
     "text": "使用说明",
-    "url": "http://mp.weixin.qq.com/s?__biz=MzAwNTM0MjY4Mg==&mid=2247488781&idx=1&sn=5eb07834db7d39b0a558d54a483953bc&chksm=9b1f41b8ac68c8ae30c770bd6bd86c430319ac50541bf78c4f6c31b156fed3159ff21e50ba47&scene=21#wechat_redirect"
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#67-detail"
    }
   ],
   "articles": [],
@@ -1069,9 +1068,7 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/65",
-  "science_qr": [
-   1
-  ],
+  "science_qr": [],
   "qr_tips": {},
   "contact": null
  },
@@ -1438,8 +1435,7 @@
   "main": "images/43_R右旋硫辛酸钠盐99%代灌胶囊/主图.png",
   "main_thumb": "images/43_R右旋硫辛酸钠盐99%代灌胶囊/主图_thumb.jpg",
   "images": [
-   "images/43_R右旋硫辛酸钠盐99%代灌胶囊/主图.png",
-   "images/43_R右旋硫辛酸钠盐99%代灌胶囊/图2.png"
+   "images/43_R右旋硫辛酸钠盐99%代灌胶囊/主图.png"
   ],
   "use": [
    {
@@ -1456,9 +1452,7 @@
    }
   ],
   "direct": "https://huangsuning.yuanchu.cloud/goods/61",
-  "science_qr": [
-   1
-  ],
+  "science_qr": [],
   "qr_tips": {},
   "contact": null
  },
