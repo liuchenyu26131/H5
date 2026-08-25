@@ -2136,10 +2136,18 @@
   "main": "images/69_NAD+辅酶检测/主图.png",
   "main_thumb": "images/69_NAD+辅酶检测/主图_thumb.jpg",
   "images": [
-   "images/69_NAD+辅酶检测/主图.png"
+   "images/69_NAD+辅酶检测/主图.png",
+   "images/69_NAD+辅酶检测/01.jpg",
+   "images/69_NAD+辅酶检测/02.jpg",
+   "images/69_NAD+辅酶检测/03.jpg"
   ],
   "use": [],
-  "articles": [],
+  "articles": [
+   {
+    "text": "公众号文章",
+    "url": "https://mp.weixin.qq.com/s/6RqWE0d8bTHK51_-Lkt5pA"
+   }
+  ],
   "buy": [],
   "direct": null,
   "science_qr": [],
