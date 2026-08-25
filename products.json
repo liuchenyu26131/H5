@@ -1266,12 +1266,12 @@
   "name": "牛磺熊去氧胆酸_熊去氧胆酸",
   "price": "110-290",
   "ratio": 0.9481,
-  "main": "images/39_牛黄熊去氧胆酸_熊去氧胆酸/主图.png",
-  "main_thumb": "images/39_牛黄熊去氧胆酸_熊去氧胆酸/主图_thumb.jpg",
+  "main": "images/39_牛磺熊去氧胆酸_熊去氧胆酸/主图.png",
+  "main_thumb": "images/39_牛磺熊去氧胆酸_熊去氧胆酸/主图_thumb.jpg",
   "images": [
-   "images/39_牛黄熊去氧胆酸_熊去氧胆酸/主图.png",
-   "images/39_牛黄熊去氧胆酸_熊去氧胆酸/图2.png",
-   "images/39_牛黄熊去氧胆酸_熊去氧胆酸/图3.png"
+   "images/39_牛磺熊去氧胆酸_熊去氧胆酸/主图.png",
+   "images/39_牛磺熊去氧胆酸_熊去氧胆酸/图2.png",
+   "images/39_牛磺熊去氧胆酸_熊去氧胆酸/图3.png"
   ],
   "use": [
    {
@@ -2166,5 +2166,32 @@
   "direct": null,
   "science_qr": [],
   "contact": "内蒙古牛羊肉"
+ },
+ {
+  "id": 103,
+  "name": "农户散养草饲山羊肉_心肝肺_山羊油_山羊肚脱毛洗净",
+  "price": null,
+  "ratio": 1.1482,
+  "main": "images/103_Hegic/主图.png",
+  "main_thumb": "images/103_Hegic/主图_thumb.jpg",
+  "images": [
+   "images/103_Hegic/主图.png",
+   "images/103_Hegic/01-1草饲山羊肉.jpg",
+   "images/103_Hegic/02-1山羊心肝肺3kg.jpg",
+   "images/103_Hegic/03-1山羊油3kg.jpg",
+   "images/103_Hegic/04-山羊肚（脱毛洗净）3kg.jpg",
+   "images/103_Hegic/用户反馈01.png"
+  ],
+  "use": [],
+  "articles": [
+   {
+    "text": "公众号文章",
+    "url": "https://mp.weixin.qq.com/s/x_SDD78eckq1P9EM05ZphA"
+   }
+  ],
+  "buy": [],
+  "direct": null,
+  "science_qr": [],
+  "contact": "Hegic"
  }
 ]
