@@ -2155,24 +2155,6 @@
   "contact": null
  },
  {
-  "id": 70,
-  "name": "避光分层防潮密封罐",
-  "price": "26-31",
-  "ratio": 0.9481,
-  "main": "images/70_避光分层防潮密封罐/主图.png",
-  "main_thumb": "images/70_避光分层防潮密封罐/主图_thumb.jpg",
-  "images": [
-   "images/70_避光分层防潮密封罐/主图.png"
-  ],
-  "use": [],
-  "articles": [],
-  "buy": [],
-  "direct": null,
-  "science_qr": [],
-  "qr_tips": {},
-  "contact": null
- },
- {
   "id": 100,
   "name": "酥油_草饲牛油_香辣羊油_草膘牦牛肉",
   "price": null,
@@ -2285,7 +2267,7 @@
  {
   "id": 104,
   "name": "避光分层防潮密封罐",
-  "price": null,
+  "price": "26-31",
   "ratio": 1.0,
   "main": "images/104_避光分层防潮密封罐/主图.jpg",
   "main_thumb": "images/104_避光分层防潮密封罐/主图_thumb.jpg",
