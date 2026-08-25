@@ -2193,5 +2193,33 @@
   "direct": null,
   "science_qr": [],
   "contact": "Hegic"
+ },
+ {
+  "id": 104,
+  "name": "避光分层防潮密封罐",
+  "price": null,
+  "ratio": 1.0,
+  "main": "images/104_避光分层防潮密封罐/主图.jpg",
+  "main_thumb": "images/104_避光分层防潮密封罐/主图_thumb.jpg",
+  "images": [
+   "images/104_避光分层防潮密封罐/主图.jpg",
+   "images/104_避光分层防潮密封罐/01.jpg",
+   "images/104_避光分层防潮密封罐/02.jpg",
+   "images/104_避光分层防潮密封罐/03.jpg",
+   "images/104_避光分层防潮密封罐/04.jpg",
+   "images/104_避光分层防潮密封罐/05.jpg",
+   "images/104_避光分层防潮密封罐/06.jpg"
+  ],
+  "use": [],
+  "articles": [
+   {
+    "text": "公众号文章",
+    "url": "https://mp.weixin.qq.com/s/oli9ijlVbtDmspUGYAGsUQ"
+   }
+  ],
+  "buy": [],
+  "direct": null,
+  "science_qr": [],
+  "contact": null
  }
 ]
