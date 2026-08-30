@@ -2149,6 +2149,26 @@
   "contact": null
  },
  {
+  "id": 80,
+  "name": "安琪酵母蛋白粉90%",
+  "price": "66",
+  "ratio": 0.71,
+  "main": "images/80_酵母蛋白粉/酵母蛋白粉_主图.png",
+  "main_thumb": "images/80_酵母蛋白粉/主图_thumb.jpg",
+  "images": [
+   "images/80_酵母蛋白粉/酵母蛋白粉_主图.png",
+   "images/80_酵母蛋白粉/微信图片_20260719202922_221_172.jpg",
+   "images/80_酵母蛋白粉/微信图片_20260719202932_222_172.jpg"
+  ],
+  "use": [],
+  "articles": [],
+  "buy": [],
+  "direct": "https://huangsuning.yuanchu.cloud/goods/161",
+  "science_qr": [],
+  "qr_tips": {},
+  "contact": null
+ },
+ {
   "id": 100,
   "name": "酥油_草饲牛油_香辣羊油_草膘牦牛肉",
   "price": null,
