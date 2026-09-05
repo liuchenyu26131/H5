@@ -2149,6 +2149,27 @@
   "contact": null
  },
  {
+  "id": 79,
+  "name": "食用盐海盐代灌胶囊",
+  "price": "30",
+  "ratio": 0.7288,
+  "main": "images/79_食用盐/主图_电商产品图-4.png",
+  "main_thumb": "images/79_食用盐/主图_thumb.jpg",
+  "images": [
+   "images/79_食用盐/主图_电商产品图-4.png",
+   "images/79_食用盐/01-电商产品图-0.png",
+   "images/79_食用盐/02-食用盐海盐代灌胶囊_胶囊壳信息.png",
+   "images/79_食用盐/03-食用盐海盐代灌胶囊_胶囊壳规格明细.png"
+  ],
+  "use": [],
+  "articles": [],
+  "buy": [],
+  "direct": "https://huangsuning.yuanchu.cloud/goods/155",
+  "science_qr": [],
+  "qr_tips": {},
+  "contact": null
+ },
+ {
   "id": 80,
   "name": "安琪酵母蛋白粉90%",
   "price": "66",
