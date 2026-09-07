@@ -2190,6 +2190,25 @@
   "contact": null
  },
  {
+  "id": 81,
+  "name": "化脂消肉酶代灌胶囊(消化酶)",
+  "price": "79",
+  "ratio": 0.5691,
+  "main": "images/81_脂肪酶/主图_.jpg",
+  "main_thumb": "images/81_脂肪酶/主图_thumb.jpg",
+  "images": [
+   "images/81_脂肪酶/主图_.jpg",
+   "images/81_脂肪酶/附图.png"
+  ],
+  "use": [],
+  "articles": [],
+  "buy": [],
+  "direct": "https://huangsuning.yuanchu.cloud/api/goods/share?id=9288981",
+  "science_qr": [],
+  "qr_tips": {},
+  "contact": null
+ },
+ {
   "id": 100,
   "name": "酥油_草饲牛油_香辣羊油_草膘牦牛肉",
   "price": null,
