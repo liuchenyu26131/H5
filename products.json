@@ -2200,7 +2200,12 @@
    "images/81_脂肪酶/主图_.jpg",
    "images/81_脂肪酶/附图.png"
   ],
-  "use": [],
+  "use": [
+   {
+    "text": "使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#81-detail"
+   }
+  ],
   "articles": [],
   "buy": [],
   "direct": "https://huangsuning.yuanchu.cloud/api/goods/share?id=9288981",
