@@ -244,13 +244,17 @@
  },
  {
   "id": 6,
-  "name": "活性B族全套原料粉 · 代灌胶囊",
+  "name": "活性B族全套原料粉 · 代灌胶囊 · 酒石酸胆碱",
   "price": "65-160",
   "ratio": 0.71,
   "main": "images/06_活性B族全套原料粉 · 代灌胶囊/主图.png",
   "main_thumb": "images/06_活性B族全套原料粉 · 代灌胶囊/主图_thumb.jpg",
   "images": [
-   "images/06_活性B族全套原料粉 · 代灌胶囊/主图.png"
+   "images/06_活性B族全套原料粉 · 代灌胶囊/主图.png",
+   "images/06_活性B族全套原料粉 · 代灌胶囊/活性B族代灌胶囊_规格与成分表.png",
+   "images/06_活性B族全套原料粉 · 代灌胶囊/活性B族原料粉_规格与成分表.jpg",
+   "images/06_活性B族全套原料粉 · 代灌胶囊/酒石酸胆碱_外包装.jpg",
+   "images/06_活性B族全套原料粉 · 代灌胶囊/酒石酸胆碱_规格与成分表.png"
   ],
   "use": [
    {
@@ -264,6 +268,10 @@
    {
     "text": "胶囊使用说明",
     "url": "https://sps.yy-gp.com/hjrv6/i.html#713-detail"
+   },
+   {
+    "text": "酒石酸胆碱使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#714-detail"
    }
   ],
   "articles": [],
@@ -589,13 +597,17 @@
  },
  {
   "id": 17,
-  "name": "甜梦静息定制强化营养素",
+  "name": "甜梦静息定制强化营养素_睡眠粉_褪黑素甘氨酸复合定制营养素",
   "price": "40-100",
   "ratio": 0.71,
   "main": "images/17_甜梦静息定制强化营养素/主图.png",
   "main_thumb": "images/17_甜梦静息定制强化营养素/主图_thumb.jpg",
   "images": [
-   "images/17_甜梦静息定制强化营养素/主图.png"
+   "images/17_甜梦静息定制强化营养素/主图.png",
+   "images/17_甜梦静息定制强化营养素/升级配方-2025-10-31.png",
+   "images/17_甜梦静息定制强化营养素/15-睡眠粉胶囊-卡片-标准图大小-模板.png",
+   "images/17_甜梦静息定制强化营养素/褪黑素甘氨酸复合定制营养素-外包装.jpg",
+   "images/17_甜梦静息定制强化营养素/褪黑素甘氨酸复合定制营养素_规格与成分表 (2).png"
   ],
   "use": [
    {
@@ -605,6 +617,10 @@
    {
     "text": "B版使用说明",
     "url": "https://sps.yy-gp.com/hjrv6/i.html#152-detail"
+   },
+   {
+    "text": "褪黑素甘氨酸使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#153-detail"
    }
   ],
   "articles": [],
