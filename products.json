@@ -38,7 +38,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 1,
@@ -79,7 +80,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 2,
@@ -120,7 +122,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 3,
@@ -161,7 +164,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 4,
@@ -202,7 +206,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 5,
@@ -240,7 +245,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/156",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 6,
@@ -285,7 +291,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/19",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 7,
@@ -314,7 +321,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/157",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 8,
@@ -343,7 +351,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/9",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 9,
@@ -380,7 +389,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/20",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 10,
@@ -409,7 +419,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/31",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 11,
@@ -441,7 +452,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 12,
@@ -470,7 +482,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/62",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 13,
@@ -503,7 +516,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/72",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 14,
@@ -535,7 +549,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 15,
@@ -564,7 +579,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/41",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 16,
@@ -593,7 +609,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/68",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 17,
@@ -634,7 +651,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/34",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 18,
@@ -666,7 +684,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 19,
@@ -695,7 +714,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/39",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 20,
@@ -736,7 +756,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/17",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 21,
@@ -765,7 +786,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/57",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 22,
@@ -797,7 +819,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 23,
@@ -829,7 +852,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 24,
@@ -861,7 +885,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 25,
@@ -894,7 +919,8 @@
    2
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 26,
@@ -927,7 +953,8 @@
    2
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 27,
@@ -960,7 +987,8 @@
    2
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 28,
@@ -992,7 +1020,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 29,
@@ -1025,7 +1054,8 @@
    2
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 30,
@@ -1057,7 +1087,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 31,
@@ -1086,7 +1117,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/65",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 32,
@@ -1119,7 +1151,8 @@
    2
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 33,
@@ -1151,7 +1184,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 34,
@@ -1183,7 +1217,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 35,
@@ -1215,7 +1250,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 36,
@@ -1247,7 +1283,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 37,
@@ -1279,7 +1316,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 38,
@@ -1311,7 +1349,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 39,
@@ -1344,7 +1383,8 @@
    2
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 40,
@@ -1377,7 +1417,8 @@
    2
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 41,
@@ -1409,7 +1450,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 42,
@@ -1441,7 +1483,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 43,
@@ -1470,7 +1513,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/61",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 44,
@@ -1502,7 +1546,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 45,
@@ -1534,7 +1579,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 46,
@@ -1566,7 +1612,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 47,
@@ -1598,7 +1645,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 48,
@@ -1624,7 +1672,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 49,
@@ -1650,7 +1699,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 50,
@@ -1673,7 +1723,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/45",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": true
  },
  {
   "id": 51,
@@ -1699,7 +1750,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 52,
@@ -1725,7 +1777,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 53,
@@ -1751,7 +1804,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 54,
@@ -1777,7 +1831,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 55,
@@ -1804,7 +1859,8 @@
    2
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 56,
@@ -1831,7 +1887,8 @@
    2
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 57,
@@ -1857,7 +1914,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 58,
@@ -1883,7 +1941,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 59,
@@ -1909,7 +1968,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 60,
@@ -1935,7 +1995,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 61,
@@ -1961,7 +2022,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 62,
@@ -1987,7 +2049,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 63,
@@ -2013,7 +2076,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 64,
@@ -2039,7 +2103,8 @@
    1
   ],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 65,
@@ -2062,7 +2127,8 @@
   "direct": null,
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 66,
@@ -2090,7 +2156,8 @@
    "1": "检测报告查询",
    "2": "用户信息登记"
   },
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 67,
@@ -2113,7 +2180,8 @@
   "direct": null,
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 68,
@@ -2136,7 +2204,8 @@
   "direct": null,
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 69,
@@ -2162,7 +2231,8 @@
   "direct": null,
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 79,
@@ -2183,7 +2253,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/155",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 80,
@@ -2203,7 +2274,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/goods/161",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 81,
@@ -2227,7 +2299,8 @@
   "direct": "https://huangsuning.yuanchu.cloud/api/goods/share?id=9288981",
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  },
  {
   "id": 100,
@@ -2256,7 +2329,8 @@
   "direct": null,
   "science_qr": [],
   "qr_tips": {},
-  "contact": "陳平安"
+  "contact": "陳平安",
+  "soldout": false
  },
  {
   "id": 101,
@@ -2283,7 +2357,8 @@
   "direct": null,
   "science_qr": [],
   "qr_tips": {},
-  "contact": "陳平安"
+  "contact": "陳平安",
+  "soldout": false
  },
  {
   "id": 102,
@@ -2309,7 +2384,8 @@
   "direct": null,
   "science_qr": [],
   "qr_tips": {},
-  "contact": "内蒙古牛羊肉"
+  "contact": "内蒙古牛羊肉",
+  "soldout": false
  },
  {
   "id": 103,
@@ -2337,7 +2413,8 @@
   "direct": null,
   "science_qr": [],
   "qr_tips": {},
-  "contact": "Hegic"
+  "contact": "Hegic",
+  "soldout": false
  },
  {
   "id": 104,
@@ -2366,6 +2443,7 @@
   "direct": null,
   "science_qr": [],
   "qr_tips": {},
-  "contact": null
+  "contact": null,
+  "soldout": false
  }
 ]
