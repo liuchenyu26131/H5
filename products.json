@@ -326,18 +326,25 @@
  },
  {
   "id": 8,
-  "name": "三丁酸甘油酯代灌胶囊",
+  "name": "三丁酸甘油酯虾青素软胶囊",
   "price": "90",
   "ratio": 0.71,
-  "main": "images/08_三丁酸甘油酯代灌胶囊/主图.png",
+  "main": "images/08_三丁酸甘油酯代灌胶囊/61-三丁酸甘油酯凝胶糖果主图_.png",
   "main_thumb": "images/08_三丁酸甘油酯代灌胶囊/主图_thumb.jpg",
   "images": [
-   "images/08_三丁酸甘油酯代灌胶囊/主图.png"
+   "images/08_三丁酸甘油酯代灌胶囊/61-三丁酸甘油酯凝胶糖果主图_.png",
+   "images/08_三丁酸甘油酯代灌胶囊/00.jpg",
+   "images/08_三丁酸甘油酯代灌胶囊/01.jpg",
+   "images/08_三丁酸甘油酯代灌胶囊/02.jpg",
+   "images/08_三丁酸甘油酯代灌胶囊/03.jpg",
+   "images/08_三丁酸甘油酯代灌胶囊/04.jpg",
+   "images/08_三丁酸甘油酯代灌胶囊/05.jpg",
+   "images/08_三丁酸甘油酯代灌胶囊/06.jpg"
   ],
   "use": [
    {
-    "text": "三丁酸甘油酯使用说明",
-    "url": "https://sps.yy-gp.com/hjrv6/i.html#61-detail"
+    "text": "三丁酸甘油酯虾青素软胶囊·使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#611-detail"
    }
   ],
   "articles": [],
