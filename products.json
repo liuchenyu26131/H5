@@ -40,7 +40,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 1,
@@ -83,7 +84,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 2,
@@ -126,7 +128,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 3,
@@ -169,7 +172,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 4,
@@ -212,7 +216,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 5,
@@ -252,7 +257,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 6,
@@ -299,7 +305,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 7,
@@ -330,7 +337,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 8,
@@ -381,7 +389,8 @@
     "380"
    ]
   ],
-  "soldout": false
+  "soldout": false,
+  "presale": "9月22日"
  },
  {
   "id": 9,
@@ -420,7 +429,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 10,
@@ -451,7 +461,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 11,
@@ -485,7 +496,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 12,
@@ -516,7 +528,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 13,
@@ -551,7 +564,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 14,
@@ -585,7 +599,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 15,
@@ -616,7 +631,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 16,
@@ -647,7 +663,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 17,
@@ -690,7 +707,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 18,
@@ -724,7 +742,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 19,
@@ -755,7 +774,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 20,
@@ -798,7 +818,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 21,
@@ -829,7 +850,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 22,
@@ -863,7 +885,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 23,
@@ -897,7 +920,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 24,
@@ -931,7 +955,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 25,
@@ -966,7 +991,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 26,
@@ -1001,7 +1027,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 27,
@@ -1036,7 +1063,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 28,
@@ -1070,7 +1098,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 29,
@@ -1105,7 +1134,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 30,
@@ -1139,7 +1169,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 31,
@@ -1170,7 +1201,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 32,
@@ -1205,7 +1237,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 33,
@@ -1239,7 +1272,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 34,
@@ -1273,7 +1307,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 35,
@@ -1307,7 +1342,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 36,
@@ -1341,7 +1377,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 37,
@@ -1375,7 +1412,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 38,
@@ -1409,7 +1447,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 39,
@@ -1444,7 +1483,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 40,
@@ -1479,7 +1519,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 41,
@@ -1513,7 +1554,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 42,
@@ -1547,7 +1589,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 43,
@@ -1578,7 +1621,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 44,
@@ -1612,7 +1656,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 45,
@@ -1646,7 +1691,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 46,
@@ -1680,7 +1726,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 47,
@@ -1714,7 +1761,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 48,
@@ -1742,7 +1790,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 49,
@@ -1770,7 +1819,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 50,
@@ -1795,7 +1845,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": true
+  "soldout": true,
+  "presale": null
  },
  {
   "id": 51,
@@ -1823,7 +1874,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 52,
@@ -1851,7 +1903,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 53,
@@ -1879,7 +1932,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 54,
@@ -1907,7 +1961,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 55,
@@ -1936,7 +1991,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 56,
@@ -1965,7 +2021,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 57,
@@ -1993,7 +2050,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 58,
@@ -2021,7 +2079,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 59,
@@ -2049,7 +2108,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 60,
@@ -2077,7 +2137,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 61,
@@ -2105,7 +2166,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 62,
@@ -2133,7 +2195,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 63,
@@ -2161,7 +2224,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 64,
@@ -2189,7 +2253,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 65,
@@ -2214,7 +2279,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 66,
@@ -2244,7 +2310,8 @@
   },
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 67,
@@ -2269,7 +2336,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 68,
@@ -2294,7 +2362,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 69,
@@ -2322,7 +2391,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 79,
@@ -2345,7 +2415,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 80,
@@ -2367,7 +2438,8 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 81,
@@ -2393,7 +2465,36 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
+ },
+ {
+  "id": 82,
+  "name": "南非醉茄代灌胶囊",
+  "price": "155",
+  "ratio": 0.7102,
+  "main": "images/50_1南非醉茄代灌胶囊/主图.png",
+  "main_thumb": "images/50_1南非醉茄代灌胶囊/主图_thumb.jpg",
+  "images": [
+   "images/50_1南非醉茄代灌胶囊/主图.png",
+   "images/50_1南非醉茄代灌胶囊/瓶装南非.jpg",
+   "images/50_1南非醉茄代灌胶囊/检测报告.jpg"
+  ],
+  "use": [
+   {
+    "text": "使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#050-detail"
+   }
+  ],
+  "articles": [],
+  "buy": [],
+  "direct": "https://huangsuning.yuanchu.cloud/goods/9288985",
+  "science_qr": [],
+  "qr_tips": {},
+  "contact": null,
+  "specs": [],
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 100,
@@ -2424,7 +2525,8 @@
   "qr_tips": {},
   "contact": "陳平安",
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 101,
@@ -2453,7 +2555,8 @@
   "qr_tips": {},
   "contact": "陳平安",
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 102,
@@ -2481,7 +2584,8 @@
   "qr_tips": {},
   "contact": "内蒙古牛羊肉",
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 103,
@@ -2511,7 +2615,8 @@
   "qr_tips": {},
   "contact": "Hegic",
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  },
  {
   "id": 104,
@@ -2542,6 +2647,7 @@
   "qr_tips": {},
   "contact": null,
   "specs": [],
-  "soldout": false
+  "soldout": false,
+  "presale": null
  }
 ]
