@@ -2341,8 +2341,8 @@
  },
  {
   "id": 68,
-  "name": "接地床单_功能医学检测盒",
-  "price": "5-3200",
+  "name": "功能医学检测盒",
+  "price": "380-3200",
   "ratio": 0.9481,
   "main": "images/68_接地床单_功能医学检测盒/主图.png",
   "main_thumb": "images/68_接地床单_功能医学检测盒/主图_thumb.jpg",
@@ -2352,7 +2352,7 @@
   "use": [
    {
     "text": "使用说明",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTM0MjY4Mg==&mid=2247487603&idx=1&sn=e90787c6eff6dd5198c6da605dbfb040&scene=21#wechat_redirect"
+    "url": "https://mp.weixin.qq.com/s/xlTre5GpB0nx6j2nFktyMA"
    }
   ],
   "articles": [],
@@ -2489,6 +2489,40 @@
   "articles": [],
   "buy": [],
   "direct": "https://huangsuning.yuanchu.cloud/goods/9288985",
+  "science_qr": [],
+  "qr_tips": {},
+  "contact": null,
+  "specs": [],
+  "soldout": false,
+  "presale": null
+ },
+ {
+  "id": 83,
+  "name": "接地床单",
+  "price": "5-586",
+  "ratio": 0.71,
+  "main": "images/83_接地床单/主图.png",
+  "main_thumb": "images/83_接地床单/主图_thumb.jpg",
+  "images": [
+   "images/83_接地床单/主图.png",
+   "images/83_接地床单/接地床单1.png",
+   "images/83_接地床单/接地床单2.jpg",
+   "images/83_接地床单/接地床单3.jpg"
+  ],
+  "use": [
+   {
+    "text": "使用说明",
+    "url": "https://mp.weixin.qq.com/s/rwfaJc8j0KOc22EjbRGrOw"
+   }
+  ],
+  "articles": [
+   {
+    "text": "公众号文章",
+    "url": "https://mp.weixin.qq.com/s/rwfaJc8j0KOc22EjbRGrOw"
+   }
+  ],
+  "buy": [],
+  "direct": null,
   "science_qr": [],
   "qr_tips": {},
   "contact": null,
