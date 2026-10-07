@@ -390,7 +390,7 @@
    ]
   ],
   "soldout": false,
-  "presale": "9月22日"
+  "presale": null
  },
  {
   "id": 9,
@@ -2351,13 +2351,13 @@
   ],
   "use": [
    {
-    "text": "使用说明",
-    "url": "https://mp.weixin.qq.com/s/xlTre5GpB0nx6j2nFktyMA"
+    "text": "各项目介绍与科普",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#43-detail"
    }
   ],
   "articles": [],
   "buy": [],
-  "direct": null,
+  "direct": "https://mp.weixin.qq.com/s/B4Gm762QpOEmzlu-9R6xNA",
   "science_qr": [],
   "qr_tips": {},
   "contact": null,
