@@ -1,93 +1,5 @@
 [
  {
-  "id": 0,
-  "name": "新四件套-套餐",
-  "price": "1340",
-  "ratio": 0.9481,
-  "main": "images/00_新四件套-套餐/主图.png",
-  "main_thumb": "images/00_新四件套-套餐/主图_thumb.jpg",
-  "images": [
-   "images/00_新四件套-套餐/主图.png",
-   "images/00_新四件套-套餐/图2.png"
-  ],
-  "use": [
-   {
-    "text": "使用说明",
-    "url": "https://mp.weixin.qq.com/s/Rffi4s7vO1wOhDXr0fJOLQ"
-   }
-  ],
-  "articles": [
-   {
-    "text": "如何注册会员？享85折",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTM0MjY4Mg==&mid=2247483993&idx=1&sn=e5e46c1e1a4e678b17fbf384bbcdbcc1&scene=21#wechat_redirect"
-   },
-   {
-    "text": "会员升级制度？最高享65折",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTM0MjY4Mg==&mid=2247483995&idx=1&sn=335acc0e6dd18f0d3511beb43a7fd590&scene=21#wechat_redirect"
-   }
-  ],
-  "buy": [
-   {
-    "label": "购买链接",
-    "applink": "#小程序://恒道维他ELV正分子营养店/dgaoGivElJI0nBD",
-    "nickname": "EternallawVita正分子营养店"
-   }
-  ],
-  "direct": null,
-  "science_qr": [
-   1
-  ],
-  "qr_tips": {},
-  "contact": null,
-  "specs": [],
-  "soldout": false,
-  "presale": null
- },
- {
-  "id": 1,
-  "name": "(大白)海淘.ELV全面膳食补充剂",
-  "price": "380",
-  "ratio": 0.9481,
-  "main": "images/01_(大白)海淘.ELV全面膳食补充剂/主图.png",
-  "main_thumb": "images/01_(大白)海淘.ELV全面膳食补充剂/主图_thumb.jpg",
-  "images": [
-   "images/01_(大白)海淘.ELV全面膳食补充剂/主图.png",
-   "images/01_(大白)海淘.ELV全面膳食补充剂/图2.png"
-  ],
-  "use": [
-   {
-    "text": "使用说明",
-    "url": "https://mp.weixin.qq.com/s/w-ls56Xb8vGsNcPrk_R5fQ"
-   }
-  ],
-  "articles": [
-   {
-    "text": "如何注册会员？享85折",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTM0MjY4Mg==&mid=2247483993&idx=1&sn=e5e46c1e1a4e678b17fbf384bbcdbcc1&scene=21#wechat_redirect"
-   },
-   {
-    "text": "会员升级制度？最高享65折",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTM0MjY4Mg==&mid=2247483995&idx=1&sn=335acc0e6dd18f0d3511beb43a7fd590&scene=21#wechat_redirect"
-   }
-  ],
-  "buy": [
-   {
-    "label": "购买链接",
-    "applink": "#小程序://恒道维他ELV正分子营养店/商品/aaoA2Z9bfBCGwvl",
-    "nickname": "EternallawVita正分子营养店"
-   }
-  ],
-  "direct": null,
-  "science_qr": [
-   1
-  ],
-  "qr_tips": {},
-  "contact": null,
-  "specs": [],
-  "soldout": false,
-  "presale": null
- },
- {
   "id": 2,
   "name": "(小白)海淘.ELV氨基酸胶原蛋白肽",
   "price": "380",
@@ -371,7 +283,7 @@
     "nickname": "EternallawVita正分子营养店"
    }
   ],
-  "direct": "https://huangsuning.yuanchu.cloud/goods/9288982",
+  "direct": "https://huangsuning.yuanchu.cloud/goods/9288988",
   "science_qr": [],
   "qr_tips": {},
   "contact": null,
