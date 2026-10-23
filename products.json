@@ -2443,6 +2443,34 @@
   "presale": null
  },
  {
+  "id": 84,
+  "name": "雌马酚复合代灌胶囊",
+  "price": "156",
+  "ratio": 0.71,
+  "main": "images/82_雌马酚复合代灌胶囊/01_雌马酚复合代灌胶囊_主图_.png",
+  "main_thumb": "images/82_雌马酚复合代灌胶囊/主图_thumb.jpg",
+  "images": [
+   "images/82_雌马酚复合代灌胶囊/01_雌马酚复合代灌胶囊_主图_.png",
+   "images/82_雌马酚复合代灌胶囊/01_雌马酚复合代灌胶囊_外包装图.jpg",
+   "images/82_雌马酚复合代灌胶囊/03_雌马酚检_第三方含量_测报告.jpg"
+  ],
+  "use": [
+   {
+    "text": "使用说明",
+    "url": "https://sps.yy-gp.com/hjrv6/i.html#82-detail"
+   }
+  ],
+  "articles": [],
+  "buy": [],
+  "direct": "https://huangsuning.yuanchu.cloud/goods/9288986",
+  "science_qr": [],
+  "qr_tips": {},
+  "contact": null,
+  "specs": [],
+  "soldout": false,
+  "presale": null
+ },
+ {
   "id": 100,
   "name": "酥油_草饲牛油_香辣羊油_草膘牦牛肉",
   "price": null,
